@@ -1,0 +1,16 @@
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.exe
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.deps.json
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.runtimeconfig.json
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.runtimeconfig.dev.json
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.dll
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\ref\Sum_Pyramid.dll
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\bin\Debug\net5.0\Sum_Pyramid.pdb
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.dll
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\ref\Sum_Pyramid.dll
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.pdb
+C:\Users\fatih\source\repos\Sum_Pyramid\Sum_Pyramid\obj\Debug\net5.0\Sum_Pyramid.genruntimeconfig.cache
